@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0f172a;
+    color: #f1f5f9;
+    line-height: 1.6;
+}
+
+header {
+    background: linear-gradient(90deg, #6366f1, #8b5cf6);
+    padding: 40px;
+    text-align: center;
+    color: white;
+}
+
+section {
+    padding: 40px;
+    max-width: 900px;
+    margin: auto;
+}
+
+h1, h2, h3 {
+    color: #a5b4fc;
+}
+
+ul {
+    list-style-type: square;
+}
+
+footer {
+    background-color: #1e293b;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
